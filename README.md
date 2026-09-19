@@ -10,7 +10,7 @@ Port scanning is one of the first steps in a penetration test or security audit 
 
 The tool takes a target IP (or localhost) and a port range, attempts a TCP connection to each port, and reports which ones are open — along with a guessed service name for common ports (like 22 = SSH, 80 = HTTP).
 
-#Features
+# Features
 Scan a target IP or localhost
 
 Custom port range support
@@ -21,7 +21,7 @@ Displays open ports with status and guessed service
 
 Scan summary (ports scanned, time taken, timestamp)
 
-Tech Stack
+# Tech Stack
 
 Python 3
 
