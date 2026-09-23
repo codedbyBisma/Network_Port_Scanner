@@ -45,7 +45,7 @@ cd cybertask3
 
 Place port_scanner.py inside this folder.
 
-#Example
+# Example
 
 Enter target IP or hostname (or 'localhost'): 192.168....
 
@@ -61,4 +61,4 @@ PORT      STATUS    SERVICE (guess)
 
 # Author
 
-Bisma — Cybersecurity Intern at SAM AI Technologies
+Bisma
